@@ -5,8 +5,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franklinsousa/franklinsousa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/franklinsousa/franklinsousa/output/pacman-contribution-graph.svg">
 </picture>
-
-![Franklin's GitHub stats](https://github-readme-stats-mocha-seven-whuma08qss.vercel.app/api?username=franklinsousa&show_icons=true&theme=vue-dark&include_all_commits=true)
-
-
-[![Top Langs](https://github-readme-stats-mocha-seven-whuma08qss.vercel.app/api/top-langs/?username=franklinsousa&theme=vue-dark&layout=compact)](https://github.com/franklinsousa/github-readme-stats)
+<p align="left">
+  <img
+    width="400"
+    src="https://github-readme-stats-mocha-seven-whuma08qss.vercel.app/api?username=franklinsousa&show_icons=true&theme=vue-dark&include_all_commits=true"
+    alt="Franklin's GitHub stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    width="305"
+    src="https://github-readme-stats-mocha-seven-whuma08qss.vercel.app/api/top-langs/?username=franklinsousa&theme=vue-dark&layout=compact"
+    alt="Top Langs"
+  />
+</p>
