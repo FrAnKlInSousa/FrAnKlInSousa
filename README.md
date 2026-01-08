@@ -5,3 +5,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franklinsousa/franklinsousa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/franklinsousa/franklinsousa/output/pacman-contribution-graph.svg">
 </picture>
+
+[![Franklin's GitHub stats](github-readme-stats-mocha-seven-whuma08qss.vercel.app/api?username=franklinsousa)](https://github.com/franklinsousa/github-readme-stats)
