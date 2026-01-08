@@ -7,3 +7,6 @@
 </picture>
 
 ![Franklin's GitHub stats](https://github-readme-stats-mocha-seven-whuma08qss.vercel.app/api?username=franklinsousa&show_icons=true&theme=vue-dark&include_all_commits=true)
+
+
+[![Top Langs](https://github-readme-stats-mocha-seven-whuma08qss.vercel.app/api/top-langs/?username=franklinsousa&theme=vue-dark&layout=compact)](https://github.com/franklinsousa/github-readme-stats)
