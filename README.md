@@ -1,5 +1,4 @@
-- 🔭 Software developer driven by curiosity and continuous learning.  
-- 🌱 Currently focused on front-end development and test automation with Cypress, building small projects to deeply understand tools, browser behavior, and best practices.
+- 🔭 Analista de qualidade focado em aprender automação.
 
 ##
 
